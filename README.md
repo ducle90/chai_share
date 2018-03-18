@@ -2,8 +2,8 @@
 
 Public repo for code from University of Michigan's CHAI lab. The repo is organized as follows:
 
-* [Bins] (master/Bins) - executable stand-alone scripts and binaries
-* [Libs] (master/Libs) - libraries that can be used within your own code
+* [Bins] (../blob/master/Bins) - executable stand-alone scripts and binaries
+* [Libs] (../blob/master/Libs) - libraries that can be used within your own code
 
 ## Setup
 
