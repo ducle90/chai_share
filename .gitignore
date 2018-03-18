@@ -1,0 +1,10 @@
+# Compiled Python code
+*.pyc
+# Java class files
+*.class
+# Temporary swap files
+*.swp
+# Temporary NFS files
+.nfs*
+# Other files
+*.DS_Store
