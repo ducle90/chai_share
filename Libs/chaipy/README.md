@@ -7,7 +7,7 @@
 * [Theano](http://deeplearning.net/software/theano/install_ubuntu.html#install-ubuntu) (includes GPU configuration)
 * [keras](https://keras.io/)
 
-In addition, you'll also need the [pdnn](Libs/pdnn) toolkit. This is already included in `chai_share`. To install, simply add this line to `~/.bashrc`:
+In addition, you'll also need the [pdnn](../pdnn) toolkit. This is already included in `chai_share`. To install, simply add this line to `~/.bashrc`:
 
 ```
 export PYTHONPATH=$PYTHONPATH:$CHAI_SHARE_PATH/Libs/pdnn

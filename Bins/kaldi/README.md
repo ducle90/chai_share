@@ -6,7 +6,7 @@ The best way to learn about these scripts is to read them, or to run them withou
 
 ### Kaldi
 
-Follow the instructions [here](Bins/ivector#kaldi) to setup Kaldi.
+Follow the instructions [here](../ivector#kaldi) to setup Kaldi.
 
 ### Dataset Preparation
 
