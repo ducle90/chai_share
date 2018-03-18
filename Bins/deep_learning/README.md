@@ -16,7 +16,7 @@ The scripts here are designed with these requirements in mind. If you've had a n
 
 Follow the instructions to setup `chai_share`:
 
-1. [Overall Setup](../..)
+1. [Overall Setup](https://github.com/ducle90/chai_share/)
 2. [chaipy](../../Libs/chaipy)
 
 ### Data Preparation
