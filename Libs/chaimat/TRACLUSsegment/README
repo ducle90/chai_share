@@ -1,0 +1,20 @@
+% TRACLUS_segment.m
+
+% ----------------------- %
+
+% INPUT: 
+% traj : multi-dimensional trajectory (row: time, column: feature
+% dimension)
+% MDL_ADVANTAGE : control sparseness of segmentation (cross validation in
+% real experiments)
+
+% OUTPUT: 
+% CP: characteristic point
+% realseg : each row contains [starting_point of a segment, ending_point of
+% a segment] -- this can be used for the ease of future segmentation
+% new_traj: final segmented trajectories in cell format
+
+% ----------------------- %
+
+% implementation of TRACLUS segmentation of the following paper: 
+% Lee, Jae-Gil, Jiawei Han, and Kyu-Young Whang. "Trajectory clustering: a partition-and-group framework." Proceedings of the 2007 ACM SIGMOD international conference on Management of data. ACM, 2007.

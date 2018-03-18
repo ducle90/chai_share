@@ -1,6 +1,6 @@
 # CHAI Share
 
-Public repo for code from University of Michigan's CHAI lab. The repo is organized as follows:
+Public repo for code from the University of Michigan's [CHAI Lab](http://web.eecs.umich.edu/~emilykmp/chai/people.html). The repo is organized as follows:
 
 * [Bins](../blob/master/Bins) - executable stand-alone scripts and binaries
 * [Libs](../blob/master/Libs) - libraries that can be used within your own code

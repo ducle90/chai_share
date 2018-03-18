@@ -1,0 +1,7 @@
+% demo_dtw.m
+% Created by Yelin Kim - on 2015/10/4
+% Modified by Yelin Kim - on 2016/3/5
+
+% 1. Caculate DTW distance between two multi-dimensional trajectories with the
+% same dimension and different lengths)
+% assuming that there are 6 facial regions
