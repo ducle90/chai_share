@@ -6,9 +6,7 @@ The best way to learn about these scripts is to read them, or to run them withou
 
 ### Kaldi
 
-Follow the instructions here to setup Kaldi:
-
-<https://github.com/ducle90/chai_share/tree/master/Bins/ivector#kaldi>
+Follow the instructions [here](Bins/ivector#kaldi) to setup Kaldi.
 
 ### Dataset Preparation
 

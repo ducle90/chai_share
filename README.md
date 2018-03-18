@@ -3,7 +3,7 @@
 Public repo for code from the University of Michigan's [CHAI Lab](http://web.eecs.umich.edu/~emilykmp/chai/people.html). The repo is organized as follows:
 
 * [Bins](Bins) - executable stand-alone scripts and binaries
-* [Libs](../blob/master/Libs) - libraries that can be used within your own code
+* [Libs](Libs) - libraries that can be used within your own code
 
 ## Setup
 

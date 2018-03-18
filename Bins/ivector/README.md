@@ -72,7 +72,7 @@ In general, a script invocation looks something like this:
 
 Here, `--num-iters` is an optional parameter and `10` is its value. The rest are required parameters. You can also call the script without any argument to print the usage message.
 
-Examples of how these scripts are used can be found in the [test](../blob/master/Bins/ivector/test) folder. It is highly recommended that you study the examples closely.
+Examples of how these scripts are used can be found in the [test](Bins/ivector/test) folder. It is highly recommended that you study the examples closely.
 
 ## Tips and Troubleshooting
 
@@ -82,7 +82,7 @@ Make sure that your WAV files match the sample frequency in `prepare_data.sh` (d
 
 ### Normalization
 
-Play around with the normalization methods! Usually speaker z-normalization works well, but this may change depending on your application. How normalization is performed is controlled through `utt2spk` and `spk2utt`. Some examples can be found in the [test](../blob/master/Bins/ivector/test/) folder.
+Play around with the normalization methods! Usually speaker z-normalization works well, but this may change depending on your application. How normalization is performed is controlled through `utt2spk` and `spk2utt`. Some examples can be found in the [test](Bins/ivector/test/) folder.
 
 ### Voice Activity Detection
 
