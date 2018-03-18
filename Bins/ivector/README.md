@@ -14,7 +14,8 @@ At a high-level, the extraction process happens in this order:
 ### Kaldi
 
 Follow the instructions here to install Kaldi:
-https://github.com/kaldi-asr/kaldi/
+
+<https://github.com/kaldi-asr/kaldi/>
 
 Then add these lines to your `~/.bashrc`:
 
